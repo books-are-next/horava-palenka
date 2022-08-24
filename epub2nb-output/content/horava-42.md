@@ -1,0 +1,17 @@
+---
+contentType: prose
+---
+
+<section>
+
+návrat na steinweg
+
+Když jsem sem stoupal po strmých schodech podél Křížové cesty, jazyky se mi v hlavě mátly: cosi uvnitř blekotalo slůvka německá, rumunská, anglická: a pak ze mě náhle (u zastavení, na němž Kristus — po kolikáté ale? — padá pod křížem k zemi) vypadla celá věta: v té rodné řeči, které se (rád bych věřil, že jsem zapomněl proč) vyhýbám: Tenhle jsme obdivovali nejvíc. Ano, tenhle jsme obdivovali (to, že ti dobří lidé dali Kristovým katanům svoji vlastní podobu; že jej na smrt vleče cháska Bavoráků s medovými vlasy a plavými kníry)… Bože, po kolika letech ze mě vypadlo to množné číslo?: obdivovali… Zde jsme tehdy stoupali stejně jiskřivým teplým zářijovým dnem: stříbrné prsteny a do roka a do dne; zde se to také (za pár měsíců, za pouhých pár měsíců; vše uvnitř bylo přichystáno na věčnost, a ta věčnost trvala pár měsíců) všechno rozpadlo na kusy (v lednu až nepravděpodobně teplém; temné skvrny kormoránů obtěžkávaly holé větve; Dunaj dávil zelenavé vlny skrz zdymadlo do šedé mlhy; tam dole; a zde nahoře pár slov, která mě vrhla do neznáma; pouhých pár slov, která mě na — kolik?, šest?, sedm?, teď to nespočítám — let odvála tam dolů, do samoty, na Balkán)… Musel jsem dnes (na Křížové cestě, taková neomalenost hned první den po návratu!) vytáhnout z batohu láhev své balkánské morušové pálenky a pořádně si loknout, abych navždy zahladil to množné číslo…
+
+Tak jsem tedy zpátky; zpátky v té zemi, jejímuž jazyku jsem nikdy nepřivykl (Bože, co s jazykem, ve kterém kupříkladu slovo Schein může znamenat zároveň svit, zdání i úřední potvrzení?); kostelík je tichý; párek studentů se vyhřívá (ruku v ruce, v klidu a jistotě až hrůzné) na lavičce pod mohutnými lipami; hřbitovem bzučí včely rozradostněné již neočekávaným teplem a zářijovými květy; a tam dole se kroutí ta samá řeka, která protékala (den, pouhý jeden den změní protéká v protékala) pod mou banátskou vískou: jen zde místo hnědé zemité barvy září nepřirozenou zelení…
+
+Včera — je to možné? — jsem šel s klíči od svého velkého bílého stavení dolů jitřní zářijovou strání za hospodskou Marjí (svěží klid a voňavý stín obrovitých moruší, mých moruší!). Než jsem nasedl do dodávky Tómy Hausrojc, vešel jsem do dvora jejího stavení, abych jí vrátil klíče (kolik let jsem je choval jako poklad v kapse; zvlášť když jsem se vracel z procházek zasněženými větrnými stráněmi); a tam jsem naposledy spatřil Marji: plakala nad chomáči peří a nad potůčky krve v jemném našedlém balkánském prachu (je nemožné dostat ho z vlasů, očí, nosu, rtů, plic, zpod nehtů; kdo pobyl v tomto kraji víc než týden, je doživotně zaprášen). Všecky pozabíjela, ta kurva; všecky si odnesla, pane učiteli; všecky, a nadávala na vytřeštěného malého psíka, který v noci klidně spal a funěl do pilin, místo aby se postavil té kurvě kuně… Položil jsem klíče na špalek (na tom by Marje těm nebohým slepicím časem usekala hlavy, kdyby je neukradla ta nevyzpytatelná noční zlodějka) a beze slova jsem odešel…
+
+Než jsem nasedl do dodávky Tómy Hausrojc a zřítil se podél krasového potoka dolů k široké zahnědlé řece (nelze, nelze si představit, že ty zelenavé vlnky olizující kamenné pilíře gotického mostu skutečně doplují až tam a zbarví se tím jemným hnědošedým balkánským prachem), spatřil jsem ještě u Marjina plotu zohyzděnou mrtvolku slepice, kterou už si kuna odnést nestihla: krvavé, rozcupované, bezhlavé tělo, z kterého jako přelud svítilo bílé, nikdy nesnesené vejce…
+
+</section>

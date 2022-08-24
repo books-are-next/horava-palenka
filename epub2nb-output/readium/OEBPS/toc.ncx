@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>boží posel</text>
+			</navLabel>
+			<content src="Horava-4.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>podpálené stráně</text>
+			</navLabel>
+			<content src="Horava-5.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>salto mortale</text>
+			</navLabel>
+			<content src="Horava-6.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>hříbě a bouře</text>
+			</navLabel>
+			<content src="Horava-7.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>paměť a vítr</text>
+			</navLabel>
+			<content src="Horava-8.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>pálenka</text>
+			</navLabel>
+			<content src="Horava-9.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>povídej, babi, jaks byla malá</text>
+			</navLabel>
+			<content src="Horava-10.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>sídliště</text>
+			</navLabel>
+			<content src="Horava-11.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>sedim sám v rozmlácenym autobusu</text>
+			</navLabel>
+			<content src="Horava-12.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>tvář</text>
+			</navLabel>
+			<content src="Horava-13.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>samomluva</text>
+			</navLabel>
+			<content src="Horava-14.html#toc_marker-11"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>teď nikdy</text>
+			</navLabel>
+			<content src="Horava-15.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>matka a dcera</text>
+			</navLabel>
+			<content src="Horava-16.html#toc_marker-13"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>pláč</text>
+			</navLabel>
+			<content src="Horava-17.html#toc_marker-14"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>mezi rozházenými kostmi</text>
+			</navLabel>
+			<content src="Horava-18.html#toc_marker-15"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>první akáty</text>
+			</navLabel>
+			<content src="Horava-19.html#toc_marker-16"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>stádo</text>
+			</navLabel>
+			<content src="Horava-20.html#toc_marker-17"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>melodika</text>
+			</navLabel>
+			<content src="Horava-21.html#toc_marker-18"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>hlasy</text>
+			</navLabel>
+			<content src="Horava-22.html#toc_marker-19"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>podobnosti</text>
+			</navLabel>
+			<content src="Horava-23.html#toc_marker-20"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>krátká zastávka</text>
+			</navLabel>
+			<content src="Horava-24.html#toc_marker-21"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>toušeň</text>
+			</navLabel>
+			<content src="Horava-25.html#toc_marker-22"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>dům na pobřeží</text>
+			</navLabel>
+			<content src="Horava-26.html#toc_marker-23"/>
+		</navPoint>
+		<navPoint id="navpoint24" playOrder="24">
+			<navLabel>
+				<text>pod přezrálou révou</text>
+			</navLabel>
+			<content src="Horava-27.html#toc_marker-24"/>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>na benzínce</text>
+			</navLabel>
+			<content src="Horava-28.html#toc_marker-25"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>mantelfrau</text>
+			</navLabel>
+			<content src="Horava-29.html#toc_marker-26"/>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>nemá šanci</text>
+			</navLabel>
+			<content src="Horava-30.html#toc_marker-27"/>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>mráz</text>
+			</navLabel>
+			<content src="Horava-31.html#toc_marker-28"/>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>druhý polibek</text>
+			</navLabel>
+			<content src="Horava-32.html#toc_marker-29"/>
+		</navPoint>
+		<navPoint id="navpoint30" playOrder="30">
+			<navLabel>
+				<text>rodný dům</text>
+			</navLabel>
+			<content src="Horava-33.html#toc_marker-30"/>
+		</navPoint>
+		<navPoint id="navpoint31" playOrder="31">
+			<navLabel>
+				<text>deníky</text>
+			</navLabel>
+			<content src="Horava-34.html#toc_marker-31"/>
+		</navPoint>
+		<navPoint id="navpoint32" playOrder="32">
+			<navLabel>
+				<text>polyfém a hyena</text>
+			</navLabel>
+			<content src="Horava-35.html#toc_marker-32"/>
+		</navPoint>
+		<navPoint id="navpoint33" playOrder="33">
+			<navLabel>
+				<text>nepoletím</text>
+			</navLabel>
+			<content src="Horava-36.html#toc_marker-33"/>
+		</navPoint>
+		<navPoint id="navpoint34" playOrder="34">
+			<navLabel>
+				<text>nesmrtelná vesta</text>
+			</navLabel>
+			<content src="Horava-37.html#toc_marker-34"/>
+		</navPoint>
+		<navPoint id="navpoint35" playOrder="35">
+			<navLabel>
+				<text>menuet</text>
+			</navLabel>
+			<content src="Horava-38.html#toc_marker-35"/>
+		</navPoint>
+		<navPoint id="navpoint36" playOrder="36">
+			<navLabel>
+				<text>sestře</text>
+			</navLabel>
+			<content src="Horava-39.html#toc_marker-36"/>
+		</navPoint>
+		<navPoint id="navpoint37" playOrder="37">
+			<navLabel>
+				<text>neděle quasimodo</text>
+			</navLabel>
+			<content src="Horava-40.html#toc_marker-37"/>
+		</navPoint>
+		<navPoint id="navpoint38" playOrder="38">
+			<navLabel>
+				<text>svatojánská noc</text>
+			</navLabel>
+			<content src="Horava-41.html#toc_marker-38"/>
+		</navPoint>
+		<navPoint id="navpoint39" playOrder="39">
+			<navLabel>
+				<text>návrat na steinweg</text>
+			</navLabel>
+			<content src="Horava-42.html#toc_marker-39"/>
+		</navPoint>
+		<navPoint id="navpoint40" playOrder="40">
+			<navLabel>
+				<text>horečka</text>
+			</navLabel>
+			<content src="Horava-43.html#toc_marker-40"/>
+		</navPoint>
+		<navPoint id="navpoint41" playOrder="41">
+			<navLabel>
+				<text>rukáv</text>
+			</navLabel>
+			<content src="Horava-44.html#toc_marker-41"/>
+		</navPoint>
+		<navPoint id="navpoint42" playOrder="42">
+			<navLabel>
+				<text>na rozšlapaných moruších</text>
+			</navLabel>
+			<content src="Horava-45.html#toc_marker-42"/>
+		</navPoint>
+	</navMap>
+</ncx>

@@ -1,0 +1,13 @@
+---
+contentType: prose
+---
+
+<section>
+
+toušeň
+
+Před tím mým prvním (ale vlastně stále trvajícím) útěkem jsme šli spolu pěšky do Toušeně (Tys říkala Toušně); už chladnou podvečerní mlhou polabského pozdního září. V Boleslavi jsme přešli most a pokračovali pak podél Labe. Naposledy jsem tudy šel snad se svou sestrou: když jsme létem chodívali na toušeňskou pouť; na pitomou socialistickou pouť plnou kolotočů, sladkých duhových želéhadů, tureckého medu a cukrové vaty… Ale teď byl podzim; šli jsme proti proudu široké řeky (jablka se vznášela na hladině: plula kamsi pryč; o den mě předhonila); prošli jsme Toušení (stále slyším to Tvé Toušní); nezastavili jsme se v hospodě na sklenku vína, jak jsme původně chtěli; šli jsme dál a dál, do soumraku; šli jsme mlčky (předtím jsem Ti vyprávěl o sestře a našich dětských cestách); drželi jsme se za ruce, šli jsme rychleji a rychleji (táhla jsi mě za sebou; táhl jsem Tě za sebou); až na jakési loučce či políčku poblíž železniční trati ses zastavila, shýbla ses, podala jsi mi kámen. Nevěřícně jsem jej měřil zrakem; vzbudilo se ve mně mé geologické dětství i těch pár nedostudovaných let přírodovědných; a musel jsem přiznat (i v té užuž přicházející tmě): ano, je to karneol…
+
+„Když pak jsme přišli do Čech, přihodilo se, že jsme přijeli ze Staré Boleslavě do Toušeně; když se nás počal zmocňovati spánek, dostavilo se nám silné přemítání o těchto slovech evangelia: Podobno jest království nebeské pokladu skrytému na poli atd., která se čtou na den sv. Ludmily. A tak počav přemítati o nich ve snách, vykládal jsem je. Probudiv se pak, podržel jsem ještě v paměti…“ Tento překlad vlastního životopisu císaře Karla IV. jsem si v pátek donesl ze školy. Vytáhl jsem jej z bedny knih, kterou v létě přivezl jako dar škole a českým krajanům nějaký turista z Čech. Přinesl jsem si ho do svého velkého bílého stavení jako nedělní odpočinkovou četbu; jako knihu, která mě dozajista vrhne do jiných dob, míst, časů, do jiných příběhů a do jiných životů: jako něco, co spolehlivě přehluší můj osud něčím starším, pestřejším a moudřejším… Jaro se pomalu vkrádá do našich banátských hrbů a závrtů; vzduch, překonávající nebesky modrá žebra okenic a nedoléhavé rámy oken, už voní vodou, tajícím sněhem, teplem a možností prvních nesmělých květů; tělo už se napíná k prvním skokům, k prvním výšlapům za hranice té neprůchodné sněhové klece… Ale zatím tu ještě sedím v nedělním podvečeru, pod dekou, v kamnech hučí; zatím tu sedím s rozevřenou knihou na kolenou; nečtu; očima bloudím po pokoji; stmívá se, vše šedne; jen karneol položený na stole vedle obrázku svatého Jana z Nepomuku narudle plane: žhnoucí, z nitra člověka vyrvaný kus masa…
+
+</section>

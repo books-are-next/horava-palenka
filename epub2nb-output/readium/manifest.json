@@ -1,0 +1,408 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Pálenka",
+    "identifier": "urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b",
+    "author": "Matěj Hořava",
+    "publisher": "Host – vydavatelství, s.r.o.",
+    "language": "cs-CZ",
+    "published": "2014-12-16T00:00:00.000Z",
+    "description": "Prózy z Banátu\nRumunsko. Banát. Odlehlé hory nad Dunajem. Vesničky, v nichž už téměř dvě století žijí čeští krajané. Svět, ve kterém se zastavil čas. Do jedné z těchto vesnic přijíždí mladý učitel z Moravy. Přijíždí, aby zapomněl. Ale každodenní realitu venkovského života a nesmělé pokusy začlenit se do uzavřené komunity mu postupně čím dál tím více zastiňují právě neodbytné vzpomínky. V odloučenosti a samotě, uprostřed omamných banátských scenerií jako by náhle každá maličkost upomínala na dětství, trpká léta strávená v gymnastické tělocvičně, ztracené ženy, cesty, útěky...",
+    "subject": [
+      "Host",
+      "Nakladatelství Host"
+    ],
+    "generator": "Adobe InDesign",
+    "cover": "cover.png"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-1.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-2.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-3.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-4.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-5.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-6.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-7.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-8.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-9.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-10.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-11.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-12.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-13.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-14.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-15.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-16.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-17.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-18.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-19.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-20.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-21.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-22.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-23.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-24.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-25.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-26.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-27.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-28.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-29.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-30.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-31.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-32.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-33.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-34.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-35.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-36.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-37.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-38.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-39.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-40.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-41.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-42.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-43.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-44.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-45.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Horava-46.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/template.css"
+    },
+    {
+      "type": "image/png",
+      "height": 1028,
+      "width": 668,
+      "rel": "cover",
+      "href": "OEBPS/images/cover.png"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/fonts/ComeniaSerifPro.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/fonts/ComeniaSerifPro-Italic.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/fonts/VeganRBO-Bold.otf"
+    }
+  ],
+  "toc": [
+    {
+      "title": "boží posel",
+      "href": "OEBPS/Horava-4.html#toc_marker-1"
+    },
+    {
+      "title": "podpálené stráně",
+      "href": "OEBPS/Horava-5.html#toc_marker-2"
+    },
+    {
+      "title": "salto mortale",
+      "href": "OEBPS/Horava-6.html#toc_marker-3"
+    },
+    {
+      "title": "hříbě a bouře",
+      "href": "OEBPS/Horava-7.html#toc_marker-4"
+    },
+    {
+      "title": "paměť a vítr",
+      "href": "OEBPS/Horava-8.html#toc_marker-5"
+    },
+    {
+      "title": "pálenka",
+      "href": "OEBPS/Horava-9.html#toc_marker-6"
+    },
+    {
+      "title": "povídej, babi, jaks byla malá",
+      "href": "OEBPS/Horava-10.html#toc_marker-7"
+    },
+    {
+      "title": "sídliště",
+      "href": "OEBPS/Horava-11.html#toc_marker-8"
+    },
+    {
+      "title": "sedim sám v rozmlácenym autobusu",
+      "href": "OEBPS/Horava-12.html#toc_marker-9"
+    },
+    {
+      "title": "tvář",
+      "href": "OEBPS/Horava-13.html#toc_marker-10"
+    },
+    {
+      "title": "samomluva",
+      "href": "OEBPS/Horava-14.html#toc_marker-11"
+    },
+    {
+      "title": "teď nikdy",
+      "href": "OEBPS/Horava-15.html#toc_marker-12"
+    },
+    {
+      "title": "matka a dcera",
+      "href": "OEBPS/Horava-16.html#toc_marker-13"
+    },
+    {
+      "title": "pláč",
+      "href": "OEBPS/Horava-17.html#toc_marker-14"
+    },
+    {
+      "title": "mezi rozházenými kostmi",
+      "href": "OEBPS/Horava-18.html#toc_marker-15"
+    },
+    {
+      "title": "první akáty",
+      "href": "OEBPS/Horava-19.html#toc_marker-16"
+    },
+    {
+      "title": "stádo",
+      "href": "OEBPS/Horava-20.html#toc_marker-17"
+    },
+    {
+      "title": "melodika",
+      "href": "OEBPS/Horava-21.html#toc_marker-18"
+    },
+    {
+      "title": "hlasy",
+      "href": "OEBPS/Horava-22.html#toc_marker-19"
+    },
+    {
+      "title": "podobnosti",
+      "href": "OEBPS/Horava-23.html#toc_marker-20"
+    },
+    {
+      "title": "krátká zastávka",
+      "href": "OEBPS/Horava-24.html#toc_marker-21"
+    },
+    {
+      "title": "toušeň",
+      "href": "OEBPS/Horava-25.html#toc_marker-22"
+    },
+    {
+      "title": "dům na pobřeží",
+      "href": "OEBPS/Horava-26.html#toc_marker-23"
+    },
+    {
+      "title": "pod přezrálou révou",
+      "href": "OEBPS/Horava-27.html#toc_marker-24"
+    },
+    {
+      "title": "na benzínce",
+      "href": "OEBPS/Horava-28.html#toc_marker-25"
+    },
+    {
+      "title": "mantelfrau",
+      "href": "OEBPS/Horava-29.html#toc_marker-26"
+    },
+    {
+      "title": "nemá šanci",
+      "href": "OEBPS/Horava-30.html#toc_marker-27"
+    },
+    {
+      "title": "mráz",
+      "href": "OEBPS/Horava-31.html#toc_marker-28"
+    },
+    {
+      "title": "druhý polibek",
+      "href": "OEBPS/Horava-32.html#toc_marker-29"
+    },
+    {
+      "title": "rodný dům",
+      "href": "OEBPS/Horava-33.html#toc_marker-30"
+    },
+    {
+      "title": "deníky",
+      "href": "OEBPS/Horava-34.html#toc_marker-31"
+    },
+    {
+      "title": "polyfém a hyena",
+      "href": "OEBPS/Horava-35.html#toc_marker-32"
+    },
+    {
+      "title": "nepoletím",
+      "href": "OEBPS/Horava-36.html#toc_marker-33"
+    },
+    {
+      "title": "nesmrtelná vesta",
+      "href": "OEBPS/Horava-37.html#toc_marker-34"
+    },
+    {
+      "title": "menuet",
+      "href": "OEBPS/Horava-38.html#toc_marker-35"
+    },
+    {
+      "title": "sestře",
+      "href": "OEBPS/Horava-39.html#toc_marker-36"
+    },
+    {
+      "title": "neděle quasimodo",
+      "href": "OEBPS/Horava-40.html#toc_marker-37"
+    },
+    {
+      "title": "svatojánská noc",
+      "href": "OEBPS/Horava-41.html#toc_marker-38"
+    },
+    {
+      "title": "návrat na steinweg",
+      "href": "OEBPS/Horava-42.html#toc_marker-39"
+    },
+    {
+      "title": "horečka",
+      "href": "OEBPS/Horava-43.html#toc_marker-40"
+    },
+    {
+      "title": "rukáv",
+      "href": "OEBPS/Horava-44.html#toc_marker-41"
+    },
+    {
+      "title": "na rozšlapaných moruších",
+      "href": "OEBPS/Horava-45.html#toc_marker-42"
+    }
+  ]
+}

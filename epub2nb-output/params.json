@@ -1,0 +1,897 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Pálenka",
+      "identifier": "urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b",
+      "author": "Matěj Hořava",
+      "publisher": "Host – vydavatelství, s.r.o."
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "horava.md",
+            "xhtml": "Horava.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-1.md",
+            "xhtml": "Horava-1.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-2.md",
+            "xhtml": "Horava-2.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-3.md",
+            "xhtml": "Horava-3.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-4.md",
+            "xhtml": "Horava-4.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-5.md",
+            "xhtml": "Horava-5.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-6.md",
+            "xhtml": "Horava-6.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-7.md",
+            "xhtml": "Horava-7.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-8.md",
+            "xhtml": "Horava-8.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-9.md",
+            "xhtml": "Horava-9.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-10.md",
+            "xhtml": "Horava-10.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-11.md",
+            "xhtml": "Horava-11.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-12.md",
+            "xhtml": "Horava-12.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-13.md",
+            "xhtml": "Horava-13.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-14.md",
+            "xhtml": "Horava-14.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-15.md",
+            "xhtml": "Horava-15.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-16.md",
+            "xhtml": "Horava-16.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-17.md",
+            "xhtml": "Horava-17.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-18.md",
+            "xhtml": "Horava-18.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-19.md",
+            "xhtml": "Horava-19.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-20.md",
+            "xhtml": "Horava-20.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-21.md",
+            "xhtml": "Horava-21.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-22.md",
+            "xhtml": "Horava-22.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-23.md",
+            "xhtml": "Horava-23.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-24.md",
+            "xhtml": "Horava-24.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-25.md",
+            "xhtml": "Horava-25.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-26.md",
+            "xhtml": "Horava-26.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-27.md",
+            "xhtml": "Horava-27.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-28.md",
+            "xhtml": "Horava-28.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-29.md",
+            "xhtml": "Horava-29.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-30.md",
+            "xhtml": "Horava-30.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-31.md",
+            "xhtml": "Horava-31.html",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-32.md",
+            "xhtml": "Horava-32.html",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-33.md",
+            "xhtml": "Horava-33.html",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-34.md",
+            "xhtml": "Horava-34.html",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-35.md",
+            "xhtml": "Horava-35.html",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-36.md",
+            "xhtml": "Horava-36.html",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-37.md",
+            "xhtml": "Horava-37.html",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-38.md",
+            "xhtml": "Horava-38.html",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-39.md",
+            "xhtml": "Horava-39.html",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-40.md",
+            "xhtml": "Horava-40.html",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-41.md",
+            "xhtml": "Horava-41.html",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-42.md",
+            "xhtml": "Horava-42.html",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-43.md",
+            "xhtml": "Horava-43.html",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-44.md",
+            "xhtml": "Horava-44.html",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-45.md",
+            "xhtml": "Horava-45.html",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "horava-46.md",
+            "xhtml": "Horava-46.html",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Pálenka",
+      "identifier": "urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b",
+      "author": "Matěj Hořava",
+      "publisher": "Host – vydavatelství, s.r.o."
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava.md",
+        "xhtml": "Horava.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-1.md",
+        "xhtml": "Horava-1.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-2.md",
+        "xhtml": "Horava-2.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-3.md",
+        "xhtml": "Horava-3.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-4.md",
+        "xhtml": "Horava-4.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-5.md",
+        "xhtml": "Horava-5.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-6.md",
+        "xhtml": "Horava-6.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-7.md",
+        "xhtml": "Horava-7.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-8.md",
+        "xhtml": "Horava-8.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-9.md",
+        "xhtml": "Horava-9.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-10.md",
+        "xhtml": "Horava-10.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-11.md",
+        "xhtml": "Horava-11.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-12.md",
+        "xhtml": "Horava-12.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-13.md",
+        "xhtml": "Horava-13.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-14.md",
+        "xhtml": "Horava-14.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-15.md",
+        "xhtml": "Horava-15.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-16.md",
+        "xhtml": "Horava-16.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-17.md",
+        "xhtml": "Horava-17.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-18.md",
+        "xhtml": "Horava-18.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-19.md",
+        "xhtml": "Horava-19.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-20.md",
+        "xhtml": "Horava-20.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-21.md",
+        "xhtml": "Horava-21.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-22.md",
+        "xhtml": "Horava-22.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-23.md",
+        "xhtml": "Horava-23.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-24.md",
+        "xhtml": "Horava-24.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-25.md",
+        "xhtml": "Horava-25.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-26.md",
+        "xhtml": "Horava-26.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-27.md",
+        "xhtml": "Horava-27.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-28.md",
+        "xhtml": "Horava-28.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-29.md",
+        "xhtml": "Horava-29.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-30.md",
+        "xhtml": "Horava-30.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-31.md",
+        "xhtml": "Horava-31.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-32.md",
+        "xhtml": "Horava-32.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-33.md",
+        "xhtml": "Horava-33.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-34.md",
+        "xhtml": "Horava-34.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-35.md",
+        "xhtml": "Horava-35.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-36.md",
+        "xhtml": "Horava-36.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-37.md",
+        "xhtml": "Horava-37.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-38.md",
+        "xhtml": "Horava-38.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-39.md",
+        "xhtml": "Horava-39.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-40.md",
+        "xhtml": "Horava-40.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-41.md",
+        "xhtml": "Horava-41.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-42.md",
+        "xhtml": "Horava-42.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-43.md",
+        "xhtml": "Horava-43.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-44.md",
+        "xhtml": "Horava-44.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-45.md",
+        "xhtml": "Horava-45.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "horava-46.md",
+        "xhtml": "Horava-46.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/template.css"
+      },
+      {
+        "type": "image/png",
+        "height": 1028,
+        "width": 668,
+        "rel": "cover",
+        "href": "OEBPS/images/cover.png"
+      },
+      {
+        "type": "application/vnd.ms-opentype",
+        "href": "OEBPS/fonts/ComeniaSerifPro.otf"
+      },
+      {
+        "type": "application/vnd.ms-opentype",
+        "href": "OEBPS/fonts/ComeniaSerifPro-Italic.otf"
+      },
+      {
+        "type": "application/vnd.ms-opentype",
+        "href": "OEBPS/fonts/VeganRBO-Bold.otf"
+      }
+    ],
+    "classes": [
+      "PB",
+      "T1",
+      "T1a",
+      "T2",
+      "T3",
+      "T5a",
+      "T5b",
+      "T5c",
+      "T5d",
+      "frame",
+      "italic",
+      "para-style-override-1",
+      "story"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "horava-palenka"
+    },
+    "generatedAt": 1661316549233
+  }
+}
