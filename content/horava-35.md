@@ -1,0 +1,15 @@
+---
+contentType: prose
+---
+
+<section>
+
+polyfém a hyena
+
+Po delší době jsem musel zatopit v kamnech: zběsilý májový déšť; zběsilá májová zima. Když jsem běžel na dvůr do přístřešku pro dřevo, Hyen spal líně na slámě ve stáji (prudký déšť místy vnikl pod střechu: sytá vůně, vlhkem probuzená, znovu vzkříšená vůně vojtěšky), zvedl hlavu, zakňoural, svěsil uši, zamlaskal pysky, zazíval (jazyk vystrčil z tlamy a stočil ho do ruličky), civěl na mě šedýma očima a pak s nebesky lhostejným zabručením položil hlavu do slámy, zavřel oči; tlama se mu rozplácla o zem… Hyen: druhý pes, který se mi zde zabydlel na dvoře; velký žíhaný pes, připomíná trochu německého ovčáka: ale ta žíhaná hyení srst… Když se třepal na dvorku strachem, ten první den, už tehdy jsem se ho vůbec nebál: Co na mě čumíš, hyeno? Trochu couvnul; poodlezl do vysoké podzimní trávy; ale ráno jsem oknem viděl, že spí na hromadě pilin pod stříškou se dřevem; oddychoval těžce, obláček pilin mu vířil kolem tmavočerného čenichu… Postupně se přestal bát; začal mě nesměle doprovázet na zimních cestách do polí: zoufalý a znechucený výraz v očích, když se měl brodit vysokým sněhem, ale šel, aspoň kus od vesnice vždy šel: v uctivé vzdálenosti za mnou. Ještě dlouho zalézal do stáje či kurníků, když jsem štípal dřevo; vzal-li jsem poleno či sekeru do ruky, instinktivně uskakoval: byl zvyklý, příliš zvyklý na rány kameny a poleny: místní se vrháním těchto předmětů brání zdivočelým psiskům či skupinkám psů, které se potulují krajem a občas — je-li hlad už neúnosný — si troufají i do lůna vsí… Ale teď bych mohl mlátit železnou tyčí půl metru od jeho hlavy, a Hyen by chrápal, funěl a bručel blahem ze spánku; zvykl si na mě: ač ho nekrmím, ač ho nehladím, ač na něj téměř nemluvím…
+
+Hned v tom prvním podzimu se mi na dvorku zabydlela malinká fenka. Nejprve se potulovala vsí a po okolí: vídal jsem ji občas v polích, jak mě zdálky sleduje, jak se za mnou plíží. A jednou mi ležela na dvorku, na pilinách (též na podzim; když psi cítí, že přichází zima, riskují, zkoušejí se zabydlet, hůl nehůl, kámen nekámen, ulehnou do pilin na vašem dvoře a předstírají, že tam leží odjakživa, že tam patří, že tam hlídají od stvoření světa): měla už pouze jedno oko; nejspíš o to druhé přišla v boji s nějakým místním psiskem nebo kocourem. Říkal jsem jí Polyfém; pak už jen Poly: ale pouze pro sebe; nemluvil jsem na ni; nekrmil jsem ji; její jediné oko se lesklo matným světlem ze tmy, když jsem chodil v noci na záchod; lesklo se na podzim, v zimě, na jaře; v létě jsem na čas odjel, a když jsem přijel, nebylo po Poly ani vidu, ani slechu…
+
+Hyen mlaská, poštěkává ze sna komickým štěněcím hláskem, ač už má šediny na tlamě; usedám za ním, vdechuji vojtěšku, uklidňuji se monotónním oddechováním té nepochopitelně důvěřivé šelmy; déšť je prudší a prudší, dech psa klidnější a klidnější: funí velkým vlhkým čenichem do svého pozemského ráje: stačí nebýt kamenován, stačí jen nebýt kamenován, zní pokorně z každého jeho výdechu; nebýt kamenován: už to zde značí ráj… Jak vám rozumím, bídní banátští psi; jak hrozně vám rozumím…
+
+</section>
